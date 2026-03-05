@@ -55,4 +55,4 @@
 ## Данные
 Из-за ограничений GitHub по размеру файлов, исходный датасет (450 Мб) размещен на внешнем ресурсе.
 
-👉 **[СКАЧАТЬ ИСХОДНЫЙ ДАТАСЕТ В CSV](https://drive.google.com/file/d/1xVg4tVX9RT_VWjefA5JL25xkNuXmjzFm/view?usp=drive_link)**
+**[СКАЧАТЬ ИСХОДНЫЙ ДАТАСЕТ В CSV](https://drive.google.com/file/d/1xVg4tVX9RT_VWjefA5JL25xkNuXmjzFm/view?usp=drive_link)**
